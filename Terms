@@ -1,0 +1,11 @@
+HTTP and HTTPS
+
+🔒 HTTP and HTTPS Overview: HTTP, or Hypertext Transfer Protocol, is widely used for viewing web pages. It becomes HTTPS (Secure HTTP) when security is added, primarily to protect data exchanged over the internet.
+
+🔑 Vulnerability of Standard HTTP: Standard HTTP transfers data in clear text, making it susceptible to interception by hackers. This is especially risky when transmitting sensitive information like passwords or credit card details.
+
+🔒 Encryption with HTTPS: HTTPS encrypts data, making it unreadable during transmission. This ensures that even if data is intercepted, it remains secure and indecipherable to unauthorized parties.
+
+🔑 SSL and TLS Protocols: Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are protocols used to encrypt and secure data. They involve verifying the authenticity of websites to ensure trustworthiness before any data is exchanged.
+
+🔒 Adoption and Impact of HTTPS: Many websites now use HTTPS by default, partly driven by Google's policies that favor secure sites in search rankings. This has made HTTPS prevalent across major websites.
