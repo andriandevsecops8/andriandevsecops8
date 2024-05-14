@@ -1,4 +1,4 @@
-#applicaitonsecurity #bestsecuritypractices #securecodereviews #dynamicsecuritytesting
+#applicationsecurity #bestsecuritypractices #securecodereviews #dynamicsecuritytesting
 
 <!---
 andriandevsecops8/andriandevsecops8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
